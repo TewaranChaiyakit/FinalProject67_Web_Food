@@ -1,6 +1,7 @@
 EasyFood
 - โปรแกรมดึงข้อมูลจากฐานข้อมูล API จาก  www.themealdb.com สามารถแสดงข้อมูลจากฐานข้อมูล 
 - Search meal by name, Lookup full meal details by id , List all meal categories , Lookup a single random meal และ Filter by Category
+- โปรแกรม มีส่วน 3 หน้า Home , Favorite , Category
 - สามารถค้นหาชื่ออาหารได้
 - สามารถกด Bookmark ในเมนูชอบได้ สามารถเพิ่ม ลบ Bookmark ได้
 
